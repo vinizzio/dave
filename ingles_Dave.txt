@@ -35,7 +35,7 @@ i know where it's
 
 part 2
 it's very important
-it's very important for me 
+it's very important for me
 it's not so important - no es tan
 the importance - cuando esta seguido vocales se dice di importance
 do you have? = tienes
@@ -59,7 +59,7 @@ so rapido = tan rapido
 faster = mas rapito
 more = mas
 adjetivos cortos se aumenta er
-happy ... happier 
+happy ... happier
 	more important
 than que en comparaciones
 i'm faster that you
@@ -85,7 +85,7 @@ part 4
 I don't understand = no entiendo
 do you understand  = entiendes
 do you know = sabes
-I know = yo se 
+I know = yo se
 I don't know
 do you have = tienes
 I don't have = no tengo
@@ -166,7 +166,7 @@ what do you like = que te gusta
 
 part 7
 voy = i'm going
-no voy = I'm not going 
+no voy = I'm not going
 voy a hacerlo = i'm going to do it
 quedarse = to stay
 I'm going to stay here today = voy a quedarme aqui hoy
@@ -178,7 +178,7 @@ I'm going to stay here because i'm tired = voy a quedarme aqui porque estoy cans
 at home = en casa
 I'm going to stay at home tonight = voy a quedarme en casa esta noche
 to call = llamar
-I'm going to call you = voy a llamarte 
+I'm going to call you = voy a llamarte
 I'm going to call you later = voy a llamarte mas tarde
 I'm going to leave a message for you = voy a dejar un mesaje para ti
 I'm not going to stay here = no voy a quedarme aqui
@@ -202,7 +202,7 @@ expensive = caro
 it's very expensive = es muy costoso
 it's too expensive = es demasiato costoso
 it's not too expensive = no es demasiado costoso
-it's not so expensive = no es tan costoso 
+it's not so expensive = no es tan costoso
 if it's not too expensive = si no es demasiado costoso
 I dont know if i'm going to do it = nose si voy a hacerlo
 si = yes (afirmacion)
@@ -248,8 +248,33 @@ part 8
  que quieres hacer esta noche = what do you want to do tonight
  que te gusta hacer = what do you like to do
 
+parte 9
+ to be = ser o estar
+ a que hora = at what time
+ a que hora vas a estar aqui = at what time are you going to be here?
+ vas a quedarte en casa esta noche? = are you going to stay at home tonight?
+ cuanto tiempo = how much time
+ cuanto tiempo tienes = how much time do you have
+ cuanto tiempo = how long
+ cuanto tiempo vas a quedarte = how long are you going to stay
+ no se cuanto tiempo voy a quedarme = I don't know how long I'm going to stay
 
-
-
-
-
+ que quieres = what do you want
+ quieres hacerlo = do you want to do it
+ to wait = esperar
+ voy a esperar aqui = i'm going to wait here
+ vas a esperar = are you going to wait
+ quieres comprarlo = do you want to buy it
+ to come = venir
+ quiero hablar contigo = i want to speak with you
+ quieres venir conmigo = do you want to come with me
+ vas a venir conmigo = are you going to come with me
+ quiero saber cuanto es = i want to know how much it is because i want to buy it if it's not too expensive
+ voy = i'm going
+ vas = are you going?
+ a donde vas = where are you going now?
+ cuando vas a estar aqui = when are you going to be here
+ a que hora vas a llegar = at what time are you going to arrive
+ cuando vas a irte = when are you going to leave
+ por que vas a partir = why are you going to leave
+ 
