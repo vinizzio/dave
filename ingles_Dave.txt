@@ -283,3 +283,47 @@ parte 10
 	vas a preparar la cena = are you going the prepare the dinner?
 	cenar = to dine mas comun to have dinner
 	donde vas a cenar esta noche = where are you going to have dinner tonight?
+	a que hora vas a cenar esta noche = at what time are you going to have dinner tonight?
+	nose = i don't know
+	nose todavia = i don't know jet
+	todavia no = not yet
+	no se todavia donde voy a cenar esta noche = in don't know jet where i'm going to have dinner tonight.
+	quires cenar conmigo esta noche = do you want to have dinner with me tonight?
+	almuerzo = lunch
+	almorzar = to have lunch
+	donde vas a almorzar = where are you going to have lunch
+	quieres almorzar conmigo? = do you want to have lunch with me?
+	breakfast = desayuno
+	desayunar = to have breakfast
+	a que horas vas a desayunar mañana? = at what time are you going to have beakfast tomorrow
+	mañana por la mañana = tomorrow morning
+	mañana por la noche = tomorrow evening
+	evening = noche temprano
+	night = cuando se duerme
+	donde va almorzar hoy = where are you going to have lunch today
+	nose todavia donde voy a almorzar hoy = i don't know jet where i'm going to have lunch today
+	vas a esperar = are you going to wait
+	voy a esperar = i'm going to wait
+	voy a esperarte = i'm going to wait for you
+	vas a esperarme = are you going to wait for me
+	puedo = i can
+	no puedo = i cannot o i can't
+	Can (verbos especiales)
+	puedes = can you
+	ni antes ni despues de can se pone to
+	puedo hacerlo = i cant do it
+	para preguntar no se usa el do solo can you?
+	y para negar no se usa do not se niega de una ves
+	no puedo esperar = i can't wait
+	no puedo decirte = i can't tell you
+	no puedo decirte donde esta porque no lo se = i can't tell you where it is because i don't know it
+	puedes decirme cuanto es = can you tell me how much it is
+	puedes esperarme aqui por favor = can you wait for me here please
+	puedes llamarme mas tarde = can you call me later
+	a que hora puedes llamarme = at what time can you call me
+	no puedo quedarme = i can't stay
+	cuanto tiempo puedes quedarte = how long can you stay
+	must = tener pero no de dinero
+	yo debo = i must
+	must (verbos especiales)
+	minuto 10
