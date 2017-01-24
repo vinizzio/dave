@@ -277,3 +277,9 @@ parte 9
  a que hora vas a llegar = at what time are you going to arrive
  cuando vas a irte = when are you going to leave
  por que vas a partir = why are you going to leave
+
+parte 10
+	la cena = the dinner
+	vas a preparar la cena = are you going the prepare the dinner?
+	cenar = to dine mas comun to have dinner
+	donde vas a cenar esta noche = where are you going to have dinner tonight?
