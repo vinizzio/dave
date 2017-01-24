@@ -283,3 +283,4 @@ parte 10
 	vas a preparar la cena = are you going the prepare the dinner?
 	cenar = to dine mas comun to have dinner
 	donde vas a cenar esta noche = where are you going to have dinner tonight?
+a
