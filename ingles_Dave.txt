@@ -327,3 +327,4 @@ parte 10
 	yo debo = i must
 	must (verbos especiales)
 	minuto 10
+ok
