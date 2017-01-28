@@ -343,4 +343,3 @@ parte 10
 	no se si pueda hacerlo pero voy a intentar = I don't know if I can do it but I'm going to try
 	no es lo que quiero = It's not what I want
 	eso no es lo que quiero = that's not what I want
-	
