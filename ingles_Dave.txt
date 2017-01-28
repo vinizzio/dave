@@ -326,4 +326,21 @@ parte 10
 	must = tener pero no de dinero
 	yo debo = i must
 	must (verbos especiales)
-	minuto 10
+	debo hacerlo = I must do it
+	debo partir ahora = i must leave now
+	debo decirte = i must tell you
+	tu debes = you must
+	debes decirme = you must tell me
+	debo verlo = I must see it
+	debo ir a verlo = I must go to see it
+	quiero ir a verlo = I want to go see it
+	pero no puedo ir a verlo ahora = but I can't go see it now
+	voy a llamarte mas tarde y voy a decirte si puedo ir a verlo contigo esta noche = I'm going to call you later and I'm going to tell you if I can go see it with you tonight
+	no se si puedo hacerlo = I don't know if I can do it
+	intentar = to try
+	voy a intentar = I'm going to try
+	puedes intentar por favor = can you try please
+	no se si pueda hacerlo pero voy a intentar = I don't know if I can do it but I'm going to try
+	no es lo que quiero = It's not what I want
+	eso no es lo que quiero = that's not what I want
+	
