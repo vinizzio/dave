@@ -445,3 +445,36 @@ parte 12
 	no esta listo todavia = it's not ready yet
 	estoy listo = i'm ready
 	estas listo = are you ready
+
+parte 13
+	we = nosotros
+	we are = nosotros somos
+	they are = ellos son
+	estamos listos = we are ready
+	estas listo = are you ready?
+	ellos estan listos = they are ready
+	no estamos listo todavia = we're not ready yet
+	nosotros vamos = we are going
+	mi amigo = my friend
+	mi amigo va = mi friend is going
+	todo el mundo = everybody (es singular)
+	todo el mundo va = everybody is going
+	nadie = noboby
+	nadie va = nobody is going
+	nada = nothing
+	cosa = thing
+	nada va = nothing is going
+	quien = who
+	quien va = who is going
+	todo = everything
+	everybody, nobody, somebody tambien se puede decir con one everyone etc
+	they ellos tambien para cosas
+	mi amigo va a estar aqui = my friend is going to be here
+	pronto = soon
+	mi amigo va a estar aqui pronto = mi friend is going to be here soon
+	todo el mundo va a estar alla esta noche = everybody is going to be there to night
+	quien va a estar alla = who is going to be there
+	todo va a estar listo pronto = everything is going to be ready soon
+	todo esta listo = everything is ready
+	nada va a estar listo hoy = nothing is going to be ready today
+	mi amigo va a llegar mañana = my friend is going to arrive tomorrow
